@@ -18,10 +18,10 @@
 -->
 
 Nama kelompok:
-1.
-2.
-3.
-4.
+1. David Joseph Beckham
+2. Lionel Andres Messi
+3. Cristiano Ronaldo dos Santos Aviero
+4. Ezechiel N'Douasel
 
 <img src="https://allura.apache.org/theme/img/logo_black.png" alt="Apache Allura Logo" width="64" /> 
 
